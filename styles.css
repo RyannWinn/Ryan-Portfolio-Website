@@ -333,6 +333,11 @@ header {
 .skills-js {
   width: 65%;
 }
+
+.skills-py {
+  width: 10%;
+}
+
 .skills-ux {
   width: 85%;
 }
